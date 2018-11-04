@@ -1,1 +1,1 @@
-# whl_and_egg_of_TensorFlow_Object_Detection_API
+# Python Packages(both whl and egg) of TensorFlow Object Detection API
